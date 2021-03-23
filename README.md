@@ -1,2 +1,2 @@
 # blackjack
-Python Blackjack in Jupyter notebook
+Python Blackjack
